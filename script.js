@@ -1,10 +1,4 @@
-// ========================
-// Zama Quiz Campaign 1
-// Full script.js
-// ========================
-
 const quizData = [
-  // 🔸 Old 5 questions
   {
     question: "1️⃣ What is Zama primarily focused on developing?",
     options: [
@@ -50,8 +44,6 @@ const quizData = [
     ],
     answer: 1
   },
-
-  // 🔸 New 5 questions (latest updates)
   {
     question: "6️⃣ What new season did Zama recently launch for its creator program?",
     options: ["A. Season 1", "B. Season 2", "C. Season 3", "D. Season 4"],
